@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./OO tests",
+        "./OO tests/Bibilio Tests"
+    ]
+}
